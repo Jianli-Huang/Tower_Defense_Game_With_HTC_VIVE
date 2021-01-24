@@ -1,0 +1,103 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2080 (ID=0x1e82)
+    Vendor:   NVIDIA
+    VRAM:     8010 MB
+    Driver:   26.21.14.3650
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\SoftwareFiles\Unity\Unity2017.1.0\Tower_Defense_Game_With_HTC_VIVE\打包文件\Tower_Defense_Game_With_HTC_VIVE_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.014 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+OpenVR initialized!
+ 
+(Filename:  Line: 584)
+
+UnloadTime: 0.341000 ms
+Connected to lighthouse:LHR-96DA8A7C
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 4314 -> priority: 1 
+  Thread -> id: 3b94 -> priority: 1 
+  Thread -> id: d88 -> priority: 1 
+  Thread -> id: fac -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.838800 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 3298.
+Total: 0.660200 ms (FindLiveObjects: 0.095600 ms CreateObjectMapping: 0.023700 ms MarkObjects: 0.526300 ms  DeleteObjects: 0.013800 ms)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Normal Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Fast Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Normal Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Fast Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Tanky Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Fast Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Tanky Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+BoxColliders does not support negative scale or size.
+The effective box size has been forced positive and is likely to give unexpected collision geometry.
+If you absolutely need to use negative scaling you can use the convex MeshCollider. Scene hierarchy path "Tanky Enemy(Clone)"
+ 
+(Filename:  Line: 0)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.957500 ms
+
+Unloading 90 unused Assets to reduce memory usage. Loaded Objects now: 772.
+Total: 0.495500 ms (FindLiveObjects: 0.061300 ms CreateObjectMapping: 0.016800 ms MarkObjects: 0.363300 ms  DeleteObjects: 0.053600 ms)
+
+OpenVR Shutdown
+ 
+(Filename:  Line: 1253)
+
